@@ -1,3 +1,11 @@
+/* Write a program in JAVA to print a number is divisible by 3 it should print “Consultadd” as a string 
+
+If a number is divisible by 5 it should print “JAVA Training” as a string 
+
+If a number is divisible by both 3 and 5 it should print “Consultadd JAVA Training” as a string. 
+
+rform the following operation*/ 
+
 import java.util.*;
 
 public class Divby3
